@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Trish
 
 <!--
 **batinganatrishelle/batinganatrishelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working with <italic>Guardian Roofing & Siding</italic>
+- 🌱 I’m currently studying Information Technology at MATS College of Technology
+- ⚡ Fun fact: I can't start a day without coffee
