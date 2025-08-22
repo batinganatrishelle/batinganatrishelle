@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working with <italic>Guardian Roofing & Siding</italic>
+- 🔭 I’m currently working as a Virtual Assistant. Customer Support Specialist, Admin Support and Executive Assistant
 - 🌱 I’m currently studying Information Technology at MATS College of Technology
 - ⚡ Fun fact: I can't start a day without coffee
